@@ -1,3 +1,5 @@
 npm -i -g create-rect-app
 create-react-app app_nomi 
 npm install --save --legacy-peer-deps
+
+npm config set legacy-peer-deps true
