@@ -1,0 +1,3 @@
+npm -i -g create-rect-app
+create-react-app app_nomi 
+
